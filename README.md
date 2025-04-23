@@ -41,6 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharaniportfolio&show_icons=true&locale=en&layout=compact" alt="dharaniportfolio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharaniportfolio&show_icons=true&locale=en" alt="dharaniportfolio" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharaniportfolio&" alt="dharaniportfolio" /></p>
 
 
 
